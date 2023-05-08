@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{papers/multi-agent_exp_constr_comms.html}
+# jemdoc: menu{MENU}{multi-agent_exp_constr_comms.html}{../}
 
 == \nPreliminary experimental results of context-aware teams of multiple autonomous agents operating under constrained communications
 

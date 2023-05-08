@@ -1,5 +1,5 @@
 To compile, run:
 
 ```bash
-python2 jem/jemdoc.py -o www/ *.jemdoc
+python2 jem/jemdoc.py *.jemdoc papers/*.jemdoc
 ```
