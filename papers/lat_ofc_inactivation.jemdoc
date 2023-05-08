@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{papers/lat_ofc_inactivation.html}
+
+== \nLateral orbitofrontal inactivation dissociates devaluation-sensitive behavior and economic choice
+
+/Matthew P.H. Gardner, Jessica S. Conroy, Michael H. Shaham, Clay V. Styer, Geoffrey Schoenbaum/
+
+/Neuron/, 2017
+- [https://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&retmode=ref&cmd=prlinks&id=29154127 Final paper]
+
+How do we choose between goods that have different subjective values, like apples and oranges? Neuroeconomics proposes that this is done by reducing complex goods to a single unitary value to allow comparison. This value is computed “on the fly” from the underlying model of the goods space, allowing decisions to meet current needs. This is termed “model-based” behavior to distinguish it from pre-determined, habitual, or “model-free” behavior. The lateral orbitofrontal cortex (OFC) supports model-based behavior in rats and primates, but whether the OFC is necessary for economic choice is less clear. Here we tested this question by optogenetically inactivating the lateral OFC in rats in a classic model-based task and during economic choice. Contrary to predictions, inactivation disrupted model-based behavior without affecting economic choice.
