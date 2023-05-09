@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{wrs_2020.html}{../}
+
+== \nTeam Northeastern submission to [https://wrs.nedo.go.jp/en/wrs2020/challenge/service/partner.html World Robot Summit 2020: Service Robotics Category, Partner Robot Challenge (Real Space)]
+
+*Team members:* Rui Luo, Michael H. Shaham, Drake Moore, Iris Wang
+
+The [https://wrs.nedo.go.jp/en/ World Robot Summit] hosts various robot competitions in which teams from all over the world compete to complete different tasks. For the Partner Robot Challenge that we competed in, we had two tasks to complete:
+- tidy up a room;
+- fetch an object and bring it to a specific human in a group while avoiding obstacles.
+
+The video submission below earned our team third place among remote participants to the competition (we were unable to travel to Japan to compete in-person due to travel\/quarantine restrictions in 2021). Some of the key technologies we used and\/or developed are:
+- mapping and localization,
+- trajectory optimization,
+- planning,
+- obstacle avoidance,
+- object recognition and segmentation (Detectron2 trained on YCB object dataset),
+- point cloud processing and segmentation.
+
+=== Video submission:
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPX47yHJKEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
