@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{platoon_testbed.html}{../}
 
-== \nDesign and realization of a benchmarking testbed for evaluating and validating autonomous platooning algorithms
+== \nDesign and realization of a benchmarking testbed for evaluating autonomous platooning algorithms
 
 /*Michael H. Shaham*, Risha Ranjan, Engin Kirda, Taskin Padir/
 
-/IEEE\/RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2023
+/18th International Symposium on Experimental Robotics (ISER 2023)/
 - Information and paper released if the paper gets accepted!
 
 === Demonstration video:
