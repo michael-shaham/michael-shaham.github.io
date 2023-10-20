@@ -5,10 +5,30 @@
 /*Michael H. Shaham*, Risha Ranjan, Engin Kirda, Taskin Padir/
 
 /18th International Symposium on Experimental Robotics (ISER 2023)/
-- Information and paper released after submitting the paper Oct. 6
+- [platoon_testbed.pdf Final paper]
+- Plan to publish code soon, but also available upon request!
 
-=== Demonstration video:
+Autonomous vehicle platoons present near- and long-term opportunities to enhance operational efficiencies and save lives. The past 30 years have seen rapid development in the autonomous driving space, enabling new technologies that will alleviate the strain placed on human drivers and reduce vehicle emissions. This paper introduces a testbed for evaluating and benchmarking platooning algorithms on 1/10th scale vehicles with onboard sensors. To demonstrate the testbed's utility, we evaluate three algorithms, linear feedback and two variations of distributed model predictive control, and compare their results on a typical platooning scenario where the lead vehicle tracks a reference trajectory that changes speed multiple times. We validate our algorithms in simulation to analyze the performance as the platoon size increases, and find that the distributed model predictive control algorithms outperform linear feedback on hardware and in simulation.
+
+=== Video presentation:
 ~~~
 {}{raw}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RdOQC4tSTsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-tf2z37GIA?si=0N8LoSZ96SauZmZR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
+
+=== Some platooning experiment examples:
+==== Squared 2-norm DMPC
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E19VNJ4mqMI?si=1rWAvTroBZuuYSd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
+==== 1-norm DMPC
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_Z8fpYxPyU?si=bLG4NEqur47mVGRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~
+==== Linear feedback
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BoqMhs5x7GE?si=m0Ja41HzQofwNRa6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~
