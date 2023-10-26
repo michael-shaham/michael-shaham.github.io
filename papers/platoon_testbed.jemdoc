@@ -6,7 +6,8 @@
 
 /18th International Symposium on Experimental Robotics (ISER 2023)/
 - [platoon_testbed.pdf Final paper]
-- Plan to publish code soon, but also available upon request!
+- [https://github.com/michael-shaham/convoy_ros/tree/iser ROS code.]
+- [https://github.com/michael-shaham/convoy_notebooks Simulation code.] Note that this repo is mostly Jupyter notebooks that have prototype simulation code for a bunch of random things. It is not well organized and has lots of copy-and-paste code for prototyping. The notebook to reproduce the results from the paper is in +ctrl/iser_sim_scale_platoon.ipynb+.
 
 Autonomous vehicle platoons present near- and long-term opportunities to enhance operational efficiencies and save lives. The past 30 years have seen rapid development in the autonomous driving space, enabling new technologies that will alleviate the strain placed on human drivers and reduce vehicle emissions. This paper introduces a testbed for evaluating and benchmarking platooning algorithms on 1/10th scale vehicles with onboard sensors. To demonstrate the testbed's utility, we evaluate three algorithms, linear feedback and two variations of distributed model predictive control, and compare their results on a typical platooning scenario where the lead vehicle tracks a reference trajectory that changes speed multiple times. We validate our algorithms in simulation to analyze the performance as the platoon size increases, and find that the distributed model predictive control algorithms outperform linear feedback on hardware and in simulation.
 
