@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{vast.html}{../}
+# jemdoc: menu{MENU}{vast.html}{../../}
 
 == \nVAST: Visual and spectral terrain classification in unstructured multi-class environments
 
