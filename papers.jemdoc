@@ -5,7 +5,7 @@
 
 == 2024
 
-: {[papers/2024/dmpc_itsc_2024.html Distributed Model Predictive Control for Heterogeneous Platoons with Affine Spacing Policies and Arbitrary Communication Topologies]} *M.~H. Shaham*, T. Padir
+: {[papers/2024/dmpc.html Distributed Model Predictive Control for Heterogeneous Platoons with Affine Spacing Policies and Arbitrary Communication Topologies]} *M.~H. Shaham*, T. Padir
 
 : {[papers/2024/learning_lyapunov_nn_platoon.html Learning a stable, safe, distributed feedback controller for a heterogeneous platoon of vehicles]} *M.~H. Shaham*, T. Padir
 

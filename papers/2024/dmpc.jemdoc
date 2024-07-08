@@ -1,10 +1,10 @@
-# jemdoc: menu{MENU}{dmpc_itsc_2024.html}{../../}
+# jemdoc: menu{MENU}{dmpc.html}{../../}
 
 == \nDistributed Model Predictive Control for Heterogeneous Platoons with Affine Spacing Policies and Arbitrary Communication Topologies
 
 /*Michael H. Shaham*, Taskin Padir/
 
-/27th IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024 - *under review*/
+/*Under review*/
 - [https://arxiv.org/abs/2404.12441 Paper] 
 - [https://github.com/michael-shaham/platoon-gym/tree/itsc_2024 Simulation code]
 - [https://github.com/michael-shaham/convoy_ros/tree/itsc_2024 ROS code]
