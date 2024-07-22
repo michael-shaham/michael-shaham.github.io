@@ -9,7 +9,7 @@
 - [https://github.com/michael-shaham/platoon-gym/tree/itsc_2024 Simulation code]
 - [https://github.com/michael-shaham/convoy_ros/tree/itsc_2024 ROS code]
 
-This paper presents a distributed model predictive control (DMPC) algorithm for a heterogeneous platoon using arbitrary communication topologies, as long as each vehicle is able to communicate with a preceding vehicle in the platoon. The proposed DMPC algorithm is able to accommodate any spacing policy that is affine in a vehicle's velocity, which includes constant distance or constant time headway spacing policies. By analyzing the total cost for the entire platoon, a sufficient condition is derived to guarantee platoon asymptotic stability. Simulation experiments with a platoon of 51 vehicles and hardware experiments with a platoon of four 1/10th scale vehicles validate the algorithm and compare performance under different spacing policies and communication topologies.
+This paper presents a distributed model predictive control (DMPC) algorithm for a heterogeneous platoon using arbitrary communication topologies, provided each vehicle can communicate with a preceding vehicle in the platoon. The proposed DMPC algorithm can accommodate any spacing policy that is affine in a vehicle's velocity, which includes constant distance or constant time headway spacing policies. By analyzing the total cost for the entire platoon, a sufficient condition is derived to ensure platoon asymptotic stability. Simulation experiments with a platoon of 50 vehicles and hardware experiments with a platoon of four 1/10th-scale vehicles validate the algorithm and compare performance under different spacing policies and communication topologies.
 
 === Video:
 ~~~

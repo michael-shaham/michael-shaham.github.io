@@ -9,12 +9,12 @@ The [https://wrs.nedo.go.jp/en/ World Robot Summit] hosts various robot competit
 - fetch an object and bring it to a specific human in a group while avoiding obstacles.
 
 The video submission below earned our team third place among remote participants to the competition (we were unable to travel to Japan to compete in-person due to travel\/quarantine restrictions in 2021). Some of the key technologies we used and\/or developed are:
-- mapping and localization,
-- trajectory optimization,
-- planning,
-- obstacle avoidance,
-- object recognition and segmentation (Detectron2 trained on YCB object dataset),
-- point cloud processing and segmentation.
+- mapping and localization
+- trajectory optimization
+- planning
+- obstacle avoidance
+- object recognition and segmentation (Detectron2 trained on YCB object dataset)
+- point cloud processing and segmentation
 
 === Video submission:
 ~~~
