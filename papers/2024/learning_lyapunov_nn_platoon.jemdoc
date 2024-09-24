@@ -6,7 +6,7 @@
 
 /Under review/
 - [https://arxiv.org/abs/2404.12474 Paper]
-- [https://github.com/michael-shaham/platoon-gym/tree/iros_2024 Simulation code]
+- [https://github.com/michael-shaham/platoon-gym/tree/isrr_2024 Simulation code]
 
 Platooning of autonomous vehicles has the potential to increase safety and fuel efficiency on highways. The goal of platooning is to have each vehicle drive at some speed (set by the leader) while maintaining a safe distance from its neighbors. Many prior works have analyzed various controllers for platooning, most commonly linear feedback and model predictive controllers. In this work, we introduce an algorithm for learning a stable, safe, distributed controller for a heterogeneous platoon. Our algorithm relies on recent developments in learning neural network stability and safety certificates. We train a controller for autonomous platooning in simulation and evaluate its performance on hardware with a platoon of four F1Tenth vehicles. We then perform further analysis in simulation with a platoon of 100 vehicles. Experimental results demonstrate the practicality of the algorithm and the learned controller by comparing the performance of the neural network controller to linear feedback and distributed model predictive controllers.
 
