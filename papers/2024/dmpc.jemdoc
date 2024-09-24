@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{dmpc.html}{../../}
 
-== \nDistributed Model Predictive Control for Heterogeneous Platoons with Affine Spacing Policies and Arbitrary Communication Topologies
+== \nDistributed model predictive control for heterogeneous platoons with affine spacing policies and arbitrary communication topologies
 
 /*Michael H. Shaham*, Taskin Padir/
 
